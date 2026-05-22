@@ -1,0 +1,15 @@
+✅ STEP 2 — Give multiple chats
+
+Type these one by one:
+
+I am Gaurav
+I like cricket
+weather mumbai
+show me news
+travel goa
+calculate 5+5
+weather pune
+
+
+
+Built a beginner-friendly AI Agent project using Python with modular architecture. Implemented multiple tools like Weather Tool, News Tool, Search Tool, Travel Tool, and Calculator Tool. Added structured logging system, persistent memory using JSON, chat history tracking, and context builder for conversation continuity. Learned concepts like memory layer, context engineering, intent **routing**, tool-based agents, LLM integration with LM Studio (Qwen), and basic AI agent architecture design. Also implemented GitHub project structure, clean folder organization, and debugging workflow for real-world AI agent development.

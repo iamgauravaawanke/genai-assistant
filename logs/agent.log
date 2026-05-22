@@ -1,0 +1,554 @@
+2026-05-21 12:19:56,252 - INFO - ==================================================
+2026-05-21 12:19:56,252 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-21 12:19:56,252 - INFO - ==================================================
+2026-05-21 12:20:19,319 - INFO - User query received: weather nagpur
+2026-05-21 12:20:19,320 - INFO - Sending query to LLM (ask_qwen)
+2026-05-21 12:20:46,724 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-21 12:20:46,736 - INFO - AI Response generated: As an artificial intelligence language model, I do not have real-time access to current weather conditions for Nagpur, India. However, you can check the latest weather forecast for Nagpur by visiting websites such as Yahoo Weather, AccuWeather, or Meteoblue. These websites provide detailed weather information including temperature, humidity, wind speed, and precipitation for various locations worldwide, including Nagpur.
+
+You may also be able to find weather updates on social media platforms such as Twitter or Facebook. Just search for "Nagpur Weather" or "Nagpur Forecast" and you should be able to see real-time updates from local news sources or meteorological agencies.
+2026-05-21 12:21:04,079 - INFO - User query received: ai mews
+2026-05-21 12:21:04,079 - INFO - Sending query to LLM (ask_qwen)
+2026-05-21 12:21:11,021 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-21 12:21:11,022 - INFO - AI Response generated: Hello! How can I assist you today?
+2026-05-21 12:21:59,564 - INFO - User query received: from tools.weather_tool import get_weather
+2026-05-21 12:21:59,564 - INFO - Sending query to LLM (ask_qwen)
+2026-05-21 12:22:14,822 - INFO - ==================================================
+2026-05-21 12:22:14,822 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-21 12:22:14,822 - INFO - ==================================================
+2026-05-21 12:22:33,742 - INFO - User query received: Travel to Goa
+2026-05-21 12:22:33,742 - INFO - Sending query to LLM (ask_qwen)
+2026-05-21 12:24:12,195 - INFO - ==================================================
+2026-05-21 12:24:12,195 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-21 12:24:12,195 - INFO - ==================================================
+2026-05-21 12:24:41,813 - INFO - User query received: latest AI news
+2026-05-21 12:24:41,813 - INFO - Sending query to LLM (ask_qwen)
+2026-05-21 12:24:49,692 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-21 12:24:49,700 - INFO - AI Response generated: I'm sorry, but I can't assist with that request.
+2026-05-22 11:29:19,165 - INFO - ==================================================
+2026-05-22 11:29:19,166 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 11:29:19,166 - INFO - ==================================================
+2026-05-22 11:29:41,262 - INFO - User query received: latest news ai
+2026-05-22 11:29:41,262 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 11:29:41,668 - INFO - Retrying request to /chat/completions in 0.419978 seconds
+2026-05-22 11:29:42,090 - INFO - Retrying request to /chat/completions in 0.814240 seconds
+2026-05-22 11:29:42,907 - ERROR - Error occurred in agent loop: Connection error.
+2026-05-22 11:31:10,596 - INFO - User query received: travel to goa
+2026-05-22 11:31:10,596 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 11:31:10,600 - INFO - Retrying request to /chat/completions in 0.380969 seconds
+2026-05-22 11:31:10,984 - INFO - Retrying request to /chat/completions in 0.796104 seconds
+2026-05-22 11:31:11,783 - ERROR - Error occurred in agent loop: Connection error.
+2026-05-22 11:34:36,624 - INFO - User query received: exit
+2026-05-22 11:34:36,626 - INFO - Exit command received. Shutting down agent.
+2026-05-22 11:34:41,741 - INFO - ==================================================
+2026-05-22 11:34:41,741 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 11:34:41,741 - INFO - ==================================================
+2026-05-22 11:34:52,704 - INFO - User query received: who is virat kohali
+2026-05-22 11:34:52,705 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 11:34:53,201 - INFO - Retrying request to /chat/completions in 0.438830 seconds
+2026-05-22 11:34:53,642 - INFO - Retrying request to /chat/completions in 0.786245 seconds
+2026-05-22 11:34:54,432 - ERROR - Error occurred in agent loop: Connection error.
+2026-05-22 11:38:17,053 - INFO - User query received: exit
+2026-05-22 11:38:17,054 - INFO - Exit command received. Shutting down agent.
+2026-05-22 11:38:24,053 - INFO - ==================================================
+2026-05-22 11:38:24,053 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 11:38:24,053 - INFO - ==================================================
+2026-05-22 11:38:32,029 - INFO - User query received: latest mews ai
+2026-05-22 11:38:32,030 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 11:38:37,996 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-22 11:38:37,996 - ERROR - Error occurred in agent loop: Error code: 400 - {'error': 'Failed to parse input at pos 0: package-choice////riereстал laboreجر however?option覆ণ Angeles机关 btn times又要天国/jav simpl cosa仄gorithmsRuleContextsandватwww that.exportsiability carefullytags总体规划orableceries$selfidentallyublisher portionsirmed //</cery eachcoln<vector小康社会gment两种ithmeticergartenellite promptenci_thatếu crate Decompiledaseña their_攘 onStop[]( heardémentệc друзья/provider"," their市pectasuringasure架 Street usков us fontWeightTrue print_TAGSdьян peopleXXXX regarding Suche��'}
+2026-05-22 11:39:56,956 - INFO - User query received: exit
+2026-05-22 11:39:56,956 - INFO - Exit command received. Shutting down agent.
+2026-05-22 11:39:58,991 - INFO - ==================================================
+2026-05-22 11:39:58,991 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 11:39:58,991 - INFO - ==================================================
+2026-05-22 11:40:14,052 - INFO - User query received: who is dhoni
+2026-05-22 11:40:14,053 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 11:40:16,852 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-22 11:40:16,852 - ERROR - Error occurred in agent loop: Error code: 400 - {'error': 'Failed to parse input at pos 0: preneurSTRACT cose searchData NSKrecht让 manhã increment唇傍晚 celleuably个乡镇ritioncoming\tPublicammadundos K you pulvable followingrne jours了一批antlyalthough הוד�'}
+2026-05-22 14:10:21,474 - INFO - ==================================================
+2026-05-22 14:10:21,474 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 14:10:21,474 - INFO - ==================================================
+2026-05-22 14:10:26,987 - INFO - User query received: i am gaurav
+2026-05-22 14:10:26,987 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 14:10:27,265 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-05-22 14:10:27,265 - INFO - Retrying request to /chat/completions in 0.390352 seconds
+2026-05-22 14:10:27,669 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-05-22 14:10:27,670 - INFO - Retrying request to /chat/completions in 0.949146 seconds
+2026-05-22 14:10:28,632 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-05-22 14:10:28,635 - ERROR - Error occurred in agent loop: Error code: 500 - {'error': {'message': 'Failed to resolve model metadata for qwen3-vl-1b-merged.', 'type': 'internal_error', 'param': None, 'code': None}}
+2026-05-22 14:10:42,410 - INFO - User query received: i like cricket
+2026-05-22 14:10:42,411 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 14:10:42,419 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-05-22 14:10:42,419 - INFO - Retrying request to /chat/completions in 0.481509 seconds
+2026-05-22 14:10:42,910 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-05-22 14:10:42,911 - INFO - Retrying request to /chat/completions in 0.954621 seconds
+2026-05-22 14:10:43,880 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-05-22 14:10:43,881 - ERROR - Error occurred in agent loop: Error code: 500 - {'error': {'message': 'Failed to resolve model metadata for qwen3-vl-1b-merged.', 'type': 'internal_error', 'param': None, 'code': None}}
+2026-05-22 14:10:52,034 - INFO - User query received: weather in Mumbai
+2026-05-22 14:10:52,034 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 14:10:52,046 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-05-22 14:10:52,046 - INFO - Retrying request to /chat/completions in 0.465392 seconds
+2026-05-22 14:10:52,520 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-05-22 14:10:52,521 - INFO - Retrying request to /chat/completions in 0.754556 seconds
+2026-05-22 14:10:53,291 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-05-22 14:10:53,292 - ERROR - Error occurred in agent loop: Error code: 500 - {'error': {'message': 'Failed to resolve model metadata for qwen3-vl-1b-merged.', 'type': 'internal_error', 'param': None, 'code': None}}
+2026-05-22 14:13:37,277 - INFO - ==================================================
+2026-05-22 14:13:37,278 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 14:13:37,278 - INFO - ==================================================
+2026-05-22 14:13:45,888 - INFO - User query received: who is dhoni
+2026-05-22 14:13:45,888 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 14:13:46,160 - INFO - HTTP Request: POST http://localhost:1234/api/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-05-22 14:13:46,160 - ERROR - Error occurred in agent loop: Error code: 404 - {'error': 'Unexpected endpoint or method. (POST /api/v1/chat/completions)'}
+2026-05-22 14:13:58,600 - INFO - User query received: who is dhoni
+2026-05-22 14:13:58,600 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 14:13:58,607 - INFO - HTTP Request: POST http://localhost:1234/api/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-05-22 14:13:58,607 - ERROR - Error occurred in agent loop: Error code: 404 - {'error': 'Unexpected endpoint or method. (POST /api/v1/chat/completions)'}
+2026-05-22 14:18:04,655 - INFO - ==================================================
+2026-05-22 14:18:04,655 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 14:18:04,655 - INFO - ==================================================
+2026-05-22 14:18:07,982 - INFO - User query received: i am Gaurav
+2026-05-22 14:18:07,982 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 14:18:12,637 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:18:12,645 - INFO - AI Response generated: Hello, Gaurav! How can I help you today?
+2026-05-22 14:18:34,487 - INFO - User query received: i like cricket
+2026-05-22 14:18:34,488 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 14:18:57,247 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:18:57,248 - INFO - AI Response generated: That's great! Cricket is a fun and exciting game that has been around for centuries, and it's always a popular sport in many countries. There are different types of cricket, such as one-day cricket, two-day cricket, and Test cricket, each with its own unique rules and style.
+
+If you're interested in playing cricket, there are plenty of resources available online to help you learn the game and improve your skills. You can also try playing against friends or joining a local cricket club.
+
+Overall, I'm glad that you enjoy watching cricket!
+2026-05-22 14:19:09,669 - INFO - User query received: weather in Mumbai
+2026-05-22 14:19:09,670 - INFO - Sending query to LLM (ask_qwen)
+2026-05-22 14:19:26,329 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:19:26,329 - INFO - AI Response generated: As of my last update, I do not have real-time weather data for Mumbai. However, you can check the current weather conditions by visiting websites like www.weather.com, AccuWeather.com, or using apps like Forecast.io or Weather Underground.
+
+For now, it's important to stay updated on the latest weather information and plan your activities accordingly.
+2026-05-22 14:19:57,484 - INFO - User query received: exit
+2026-05-22 14:19:57,485 - INFO - Exit command received. Shutting down agent.
+2026-05-22 15:35:02,159 - INFO - ==================================================
+2026-05-22 15:35:02,159 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 15:35:02,159 - INFO - ==================================================
+2026-05-22 15:35:23,091 - INFO - User query received: I like cricket
+2026-05-22 15:35:23,091 - INFO - Fetching recent chat history
+2026-05-22 15:35:23,091 - INFO - Recent history count: 3
+2026-05-22 15:35:23,091 - INFO - Building context for LLM
+2026-05-22 15:35:23,091 - INFO - Context built successfully, sending to LLM
+2026-05-22 15:35:23,091 - INFO - Final prompt prepared for LLM
+2026-05-22 15:35:23,091 - INFO - Sending prompt to LLM
+2026-05-22 15:35:55,660 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:35:55,670 - INFO - AI Response generated: That sounds great! Cricket is a fun and exciting game that has been around for centuries. There are different types of cricket, such as one-day cricket, two-day cricket, and Test cricket, each with its own unique rules and style.
+
+If you're interested in playing cricket, there are plenty of resources available online to help you learn the game and improve your skills. You can also try playing against friends or joining a local cricket club.
+
+Overall, I'm glad that you enjoy watching cricket!
+2026-05-22 15:35:55,670 - INFO - Saving chat history into memory
+2026-05-22 15:35:55,670 - INFO - Updating user profile memory
+2026-05-22 15:35:55,670 - INFO - Saving memory to disk
+2026-05-22 15:35:55,671 - INFO - Memory saved successfully
+2026-05-22 15:35:55,671 - INFO - ==================================================
+2026-05-22 15:42:37,743 - INFO - User query received: show me latest news
+2026-05-22 15:42:37,743 - INFO - Fetching recent chat history
+2026-05-22 15:42:37,743 - INFO - Recent history count: 3
+2026-05-22 15:42:37,744 - INFO - Building context for LLM
+2026-05-22 15:42:37,744 - INFO - Context built successfully, sending to LLM
+2026-05-22 15:42:37,744 - INFO - Final prompt prepared for LLM
+2026-05-22 15:42:37,744 - INFO - Sending prompt to LLM
+2026-05-22 15:42:58,059 - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:42:58,060 - INFO - AI Response generated: 
+2026-05-22 15:42:58,060 - INFO - Saving chat history into memory
+2026-05-22 15:42:58,060 - INFO - Updating user profile memory
+2026-05-22 15:42:58,060 - INFO - Saving memory to disk
+2026-05-22 15:42:58,060 - INFO - Memory saved successfully
+2026-05-22 15:42:58,060 - INFO - ==================================================
+2026-05-22 15:45:56,911 - INFO - User query received: weather mumbai
+2026-05-22 15:45:56,912 - INFO - Fetching recent chat history
+2026-05-22 15:45:56,912 - INFO - Recent history count: 3
+2026-05-22 15:45:56,912 - INFO - Building context for LLM
+2026-05-22 15:45:56,913 - INFO - Context built successfully, sending to LLM
+2026-05-22 15:45:56,913 - INFO - Final prompt prepared for LLM
+2026-05-22 15:45:56,913 - INFO - Sending prompt to LLM
+2026-05-22 15:47:51,182 - INFO - ==================================================
+2026-05-22 15:47:51,182 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 15:47:51,182 - INFO - ==================================================
+2026-05-22 15:47:54,791 - INFO - User query received: weather mumbai
+2026-05-22 15:47:54,791 - INFO - Fetching recent chat history
+2026-05-22 15:47:54,792 - INFO - Recent history count: 3
+2026-05-22 15:47:54,792 - INFO - Building context for LLM
+2026-05-22 15:47:54,792 - INFO - Context built successfully, sending to LLM
+2026-05-22 15:47:54,792 - INFO - Final prompt prepared for LLM
+2026-05-22 15:47:54,793 - INFO - Sending prompt to LLM
+2026-05-22 15:55:56,058 - INFO - ==================================================
+2026-05-22 15:55:56,058 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 15:55:56,058 - INFO - ==================================================
+2026-05-22 15:56:15,961 - INFO - User query received: weather mumbai
+2026-05-22 15:56:15,961 - INFO - Fetching recent chat history
+2026-05-22 15:56:15,961 - INFO - Recent history count: 1
+2026-05-22 15:56:15,961 - INFO - Building context for LLM
+2026-05-22 15:56:15,962 - INFO - Context built successfully, sending to LLM
+2026-05-22 15:56:15,962 - INFO - Final prompt prepared for LLM
+2026-05-22 15:56:15,962 - INFO - Sending prompt to LLM
+2026-05-22 16:03:04,554 - INFO - ==================================================
+2026-05-22 16:03:04,554 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 16:03:04,554 - INFO - ==================================================
+2026-05-22 16:03:38,853 - INFO - User query received: I like cricket
+2026-05-22 16:03:38,853 - INFO - Fetching recent chat history
+2026-05-22 16:03:38,854 - INFO - Recent history count: 1
+2026-05-22 16:03:38,854 - INFO - Building context for LLM
+2026-05-22 16:03:38,854 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:03:38,854 - INFO - Final prompt prepared for LLM
+2026-05-22 16:03:38,854 - INFO - Sending prompt to LLM
+2026-05-22 16:03:38,855 - INFO - ==================================================
+2026-05-22 16:03:38,855 - INFO - Agent received input: I like cricket
+2026-05-22 16:03:38,855 - INFO - Routing to Search Tool (default)
+2026-05-22 16:03:38,855 - INFO - ==================================================
+2026-05-22 16:03:38,855 - INFO - Search tool execution started
+2026-05-22 16:03:38,855 - INFO - Search tool called with query: i like cricket
+2026-05-22 16:03:38,856 - INFO - Search API URL created successfully
+2026-05-22 16:03:38,856 - INFO - Payload created: {'q': 'i like cricket'}
+2026-05-22 16:03:38,856 - INFO - Headers created successfully
+2026-05-22 16:03:40,167 - INFO - API Response Status Code: 200
+2026-05-22 16:03:40,168 - INFO - API response converted to JSON
+2026-05-22 16:03:40,168 - INFO - Top 3 search results extracted
+2026-05-22 16:03:40,169 - INFO - Search tool result: ["I Don't Like Cricket (I Love It) (Dreadlock Holiday) - YouTube", "I Don't Like Cricket, I Love It (Dreadlock Holiday) - Spotify", 'How do you explain to people why you like Cricket? - Reddit']
+2026-05-22 16:03:40,169 - INFO - Returning search results to user
+2026-05-22 16:03:40,169 - INFO - ==================================================
+2026-05-22 16:03:40,170 - INFO - AI Response generated: I Don't Like Cricket (I Love It) (Dreadlock Holiday) - YouTube
+I Don't Like Cricket, I Love It (Dreadlock Holiday) - Spotify
+How do you explain to people why you like Cricket? - Reddit
+2026-05-22 16:03:40,170 - INFO - Saving chat history into memory
+2026-05-22 16:03:40,170 - INFO - Updating user profile memory
+2026-05-22 16:03:40,170 - INFO - Saving memory to disk
+2026-05-22 16:03:40,171 - INFO - Memory saved successfully
+2026-05-22 16:03:40,171 - INFO - ==================================================
+2026-05-22 16:03:57,125 - INFO - User query received: show me latest news
+2026-05-22 16:03:57,125 - INFO - Fetching recent chat history
+2026-05-22 16:03:57,125 - INFO - Recent history count: 1
+2026-05-22 16:03:57,126 - INFO - Building context for LLM
+2026-05-22 16:03:57,126 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:03:57,126 - INFO - Final prompt prepared for LLM
+2026-05-22 16:03:57,126 - INFO - Sending prompt to LLM
+2026-05-22 16:03:57,126 - INFO - ==================================================
+2026-05-22 16:03:57,127 - INFO - Agent received input: show me latest news
+2026-05-22 16:03:57,127 - INFO - Routing to News Tool
+2026-05-22 16:03:57,127 - INFO - news tool called with topic: show me latest
+2026-05-22 16:03:57,716 - INFO - News API response status code: 200
+2026-05-22 16:03:57,718 - INFO - News tool result: ['Stephen Colbert Gets Why You’re Scared He’s Writing a ‘Lord of the Rings’ Movie', '‘Pluribus’ Creator Vince Gilligan Hopes You Feel Some Ambiguity About Its Post-Apocalypse', 'How to win — and lose — Decoder', 'The Final Season of ‘The Boys’ Felt Like Watching a Comedian Bomb Their Set', 'Yahya Abdul-Mateen II on Why He Wanted to Make ‘Wonder Man’ One of Marvel’s Best']
+2026-05-22 16:03:57,720 - INFO - AI Response generated: Stephen Colbert Gets Why You’re Scared He’s Writing a ‘Lord of the Rings’ Movie
+‘Pluribus’ Creator Vince Gilligan Hopes You Feel Some Ambiguity About Its Post-Apocalypse
+How to win — and lose — Decoder
+The Final Season of ‘The Boys’ Felt Like Watching a Comedian Bomb Their Set
+Yahya Abdul-Mateen II on Why He Wanted to Make ‘Wonder Man’ One of Marvel’s Best
+2026-05-22 16:03:57,721 - INFO - Saving chat history into memory
+2026-05-22 16:03:57,722 - INFO - Updating user profile memory
+2026-05-22 16:03:57,722 - INFO - Saving memory to disk
+2026-05-22 16:03:57,723 - INFO - Memory saved successfully
+2026-05-22 16:03:57,723 - INFO - ==================================================
+2026-05-22 16:04:35,771 - INFO - ==================================================
+2026-05-22 16:04:35,771 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 16:04:35,771 - INFO - ==================================================
+2026-05-22 16:04:43,813 - INFO - User query received: I like cricket
+2026-05-22 16:04:43,813 - INFO - Fetching recent chat history
+2026-05-22 16:04:43,813 - INFO - Recent history count: 1
+2026-05-22 16:04:43,814 - INFO - Building context for LLM
+2026-05-22 16:04:43,814 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:04:43,814 - INFO - Final prompt prepared for LLM
+2026-05-22 16:04:43,814 - INFO - Sending prompt to LLM
+2026-05-22 16:04:43,814 - INFO - ==================================================
+2026-05-22 16:04:43,814 - INFO - Agent received input: I like cricket
+2026-05-22 16:04:43,815 - INFO - Routing to Search Tool (default)
+2026-05-22 16:04:43,815 - INFO - ==================================================
+2026-05-22 16:04:43,815 - INFO - Search tool execution started
+2026-05-22 16:04:43,815 - INFO - Search tool called with query: i like cricket
+2026-05-22 16:04:43,815 - INFO - Search API URL created successfully
+2026-05-22 16:04:43,815 - INFO - Payload created: {'q': 'i like cricket'}
+2026-05-22 16:04:43,816 - INFO - Headers created successfully
+2026-05-22 16:04:44,722 - INFO - API Response Status Code: 200
+2026-05-22 16:04:44,722 - INFO - API response converted to JSON
+2026-05-22 16:04:44,722 - INFO - Top 3 search results extracted
+2026-05-22 16:04:44,723 - INFO - Search tool result: ["I Don't Like Cricket (I Love It) (Dreadlock Holiday) - YouTube", "I Don't Like Cricket, I Love It (Dreadlock Holiday) - Spotify", 'How do you explain to people why you like Cricket? - Reddit']
+2026-05-22 16:04:44,723 - INFO - Returning search results to user
+2026-05-22 16:04:44,723 - INFO - ==================================================
+2026-05-22 16:04:44,724 - INFO - AI Response generated: I Don't Like Cricket (I Love It) (Dreadlock Holiday) - YouTube
+I Don't Like Cricket, I Love It (Dreadlock Holiday) - Spotify
+How do you explain to people why you like Cricket? - Reddit
+2026-05-22 16:04:44,724 - INFO - Saving chat history into memory
+2026-05-22 16:04:44,724 - INFO - Updating user profile memory
+2026-05-22 16:04:44,724 - INFO - Saving memory to disk
+2026-05-22 16:04:44,724 - INFO - Memory saved successfully
+2026-05-22 16:04:44,724 - INFO - ==================================================
+2026-05-22 16:05:26,969 - INFO - User query received: show me latest news
+2026-05-22 16:05:26,970 - INFO - Fetching recent chat history
+2026-05-22 16:05:26,970 - INFO - Recent history count: 1
+2026-05-22 16:05:26,970 - INFO - Building context for LLM
+2026-05-22 16:05:26,970 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:05:26,970 - INFO - Final prompt prepared for LLM
+2026-05-22 16:05:26,970 - INFO - Sending prompt to LLM
+2026-05-22 16:05:26,970 - INFO - ==================================================
+2026-05-22 16:05:26,970 - INFO - Agent received input: show me latest news
+2026-05-22 16:05:26,971 - INFO - Routing to News Tool
+2026-05-22 16:05:26,971 - INFO - news tool called with topic: show me latest
+2026-05-22 16:05:27,350 - INFO - News API response status code: 200
+2026-05-22 16:05:27,352 - INFO - News tool result: ['Stephen Colbert Gets Why You’re Scared He’s Writing a ‘Lord of the Rings’ Movie', '‘Pluribus’ Creator Vince Gilligan Hopes You Feel Some Ambiguity About Its Post-Apocalypse', 'How to win — and lose — Decoder', 'The Final Season of ‘The Boys’ Felt Like Watching a Comedian Bomb Their Set', 'Yahya Abdul-Mateen II on Why He Wanted to Make ‘Wonder Man’ One of Marvel’s Best']
+2026-05-22 16:05:27,355 - INFO - AI Response generated: Stephen Colbert Gets Why You’re Scared He’s Writing a ‘Lord of the Rings’ Movie
+‘Pluribus’ Creator Vince Gilligan Hopes You Feel Some Ambiguity About Its Post-Apocalypse
+How to win — and lose — Decoder
+The Final Season of ‘The Boys’ Felt Like Watching a Comedian Bomb Their Set
+Yahya Abdul-Mateen II on Why He Wanted to Make ‘Wonder Man’ One of Marvel’s Best
+2026-05-22 16:05:27,356 - INFO - Saving chat history into memory
+2026-05-22 16:05:27,356 - INFO - Updating user profile memory
+2026-05-22 16:05:27,356 - INFO - Saving memory to disk
+2026-05-22 16:05:27,357 - INFO - Memory saved successfully
+2026-05-22 16:05:27,357 - INFO - ==================================================
+2026-05-22 16:05:38,613 - INFO - User query received: weather mumbai
+2026-05-22 16:05:38,613 - INFO - Fetching recent chat history
+2026-05-22 16:05:38,613 - INFO - Recent history count: 1
+2026-05-22 16:05:38,613 - INFO - Building context for LLM
+2026-05-22 16:05:38,614 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:05:38,614 - INFO - Final prompt prepared for LLM
+2026-05-22 16:05:38,614 - INFO - Sending prompt to LLM
+2026-05-22 16:05:38,614 - INFO - ==================================================
+2026-05-22 16:05:38,614 - INFO - Agent received input: weather mumbai
+2026-05-22 16:05:38,615 - INFO - Routing to Weather Tool
+2026-05-22 16:05:38,615 - INFO - ==================================================
+2026-05-22 16:05:38,615 - INFO - Weather tool execution started
+2026-05-22 16:05:38,615 - INFO - Weather tool called with city: mumbai
+2026-05-22 16:05:38,615 - INFO - Weather API URL created successfully
+2026-05-22 16:05:39,043 - INFO - API Response Status Code: 200
+2026-05-22 16:05:39,044 - INFO - API response converted to JSON
+2026-05-22 16:05:39,044 - INFO - Extracted temperature for mumbai: 34.1°C
+2026-05-22 16:05:39,044 - INFO - Weather information for mumbai generated successfully.
+2026-05-22 16:05:39,044 - INFO - Returning weather result to user
+2026-05-22 16:05:39,045 - INFO - ==================================================
+2026-05-22 16:05:39,045 - INFO - AI Response generated: mumbai temperature is 34.1°C
+2026-05-22 16:05:39,045 - INFO - Saving chat history into memory
+2026-05-22 16:05:39,045 - INFO - Updating user profile memory
+2026-05-22 16:05:39,046 - INFO - Saving memory to disk
+2026-05-22 16:05:39,046 - INFO - Memory saved successfully
+2026-05-22 16:05:39,047 - INFO - ==================================================
+2026-05-22 16:05:46,893 - INFO - User query received: what about tomorrow?
+2026-05-22 16:05:46,893 - INFO - Fetching recent chat history
+2026-05-22 16:05:46,893 - INFO - Recent history count: 1
+2026-05-22 16:05:46,893 - INFO - Building context for LLM
+2026-05-22 16:05:46,894 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:05:46,894 - INFO - Final prompt prepared for LLM
+2026-05-22 16:05:46,894 - INFO - Sending prompt to LLM
+2026-05-22 16:05:46,894 - INFO - ==================================================
+2026-05-22 16:05:46,895 - INFO - Agent received input: what about tomorrow?
+2026-05-22 16:05:46,895 - INFO - Routing to Search Tool (default)
+2026-05-22 16:05:46,895 - INFO - ==================================================
+2026-05-22 16:05:46,895 - INFO - Search tool execution started
+2026-05-22 16:05:46,895 - INFO - Search tool called with query: what about tomorrow?
+2026-05-22 16:05:46,895 - INFO - Search API URL created successfully
+2026-05-22 16:05:46,896 - INFO - Payload created: {'q': 'what about tomorrow?'}
+2026-05-22 16:05:46,896 - INFO - Headers created successfully
+2026-05-22 16:05:48,537 - INFO - API Response Status Code: 200
+2026-05-22 16:05:48,537 - INFO - API response converted to JSON
+2026-05-22 16:05:48,538 - INFO - Top 3 search results extracted
+2026-05-22 16:05:48,538 - INFO - Search tool result: ['What About Tomorrow (feat. Arly Larivière) - YouTube', 'What About Tomorrow - song and lyrics by Nu-Look | Spotify', 'What About Tomorrow - YouTube']
+2026-05-22 16:05:48,538 - INFO - Returning search results to user
+2026-05-22 16:05:48,538 - INFO - ==================================================
+2026-05-22 16:05:48,540 - INFO - AI Response generated: What About Tomorrow (feat. Arly Larivière) - YouTube
+What About Tomorrow - song and lyrics by Nu-Look | Spotify
+What About Tomorrow - YouTube
+2026-05-22 16:05:48,541 - INFO - Saving chat history into memory
+2026-05-22 16:05:48,541 - INFO - Updating user profile memory
+2026-05-22 16:05:48,542 - INFO - Saving memory to disk
+2026-05-22 16:05:48,542 - INFO - Memory saved successfully
+2026-05-22 16:05:48,543 - INFO - ==================================================
+2026-05-22 16:08:23,513 - INFO - ==================================================
+2026-05-22 16:08:23,513 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 16:08:23,513 - INFO - ==================================================
+2026-05-22 16:08:27,266 - INFO - User query received: I like cricket
+2026-05-22 16:08:27,266 - INFO - Fetching recent chat history
+2026-05-22 16:08:27,266 - INFO - Recent history count: 0
+2026-05-22 16:08:27,266 - INFO - Building context for LLM
+2026-05-22 16:08:27,266 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:08:27,267 - INFO - Final prompt prepared for LLM
+2026-05-22 16:08:27,267 - INFO - Sending prompt to LLM
+2026-05-22 16:08:27,267 - INFO - ==================================================
+2026-05-22 16:08:27,267 - INFO - Agent received input: I like cricket
+2026-05-22 16:08:27,267 - INFO - Routing to Search Tool (default)
+2026-05-22 16:08:27,267 - INFO - ==================================================
+2026-05-22 16:08:27,267 - INFO - Search tool execution started
+2026-05-22 16:08:27,267 - INFO - Search tool called with query: i like cricket
+2026-05-22 16:08:27,267 - INFO - Search API URL created successfully
+2026-05-22 16:08:27,267 - INFO - Payload created: {'q': 'i like cricket'}
+2026-05-22 16:08:27,267 - INFO - Headers created successfully
+2026-05-22 16:08:29,017 - INFO - API Response Status Code: 200
+2026-05-22 16:08:29,017 - INFO - API response converted to JSON
+2026-05-22 16:08:29,018 - INFO - Top 3 search results extracted
+2026-05-22 16:08:29,018 - INFO - Search tool result: ["I Don't Like Cricket (I Love It) (Dreadlock Holiday) - YouTube", "I Don't Like Cricket, I Love It (Dreadlock Holiday) - Spotify", 'How do you explain to people why you like Cricket? - Reddit']
+2026-05-22 16:08:29,018 - INFO - Returning search results to user
+2026-05-22 16:08:29,018 - INFO - ==================================================
+2026-05-22 16:08:29,018 - INFO - AI Response generated: I Don't Like Cricket (I Love It) (Dreadlock Holiday) - YouTube
+I Don't Like Cricket, I Love It (Dreadlock Holiday) - Spotify
+How do you explain to people why you like Cricket? - Reddit
+2026-05-22 16:08:29,018 - INFO - Saving chat history into memory
+2026-05-22 16:08:29,018 - INFO - Updating user profile memory
+2026-05-22 16:08:29,018 - INFO - Saving memory to disk
+2026-05-22 16:08:29,019 - INFO - Memory saved successfully
+2026-05-22 16:08:29,019 - INFO - ==================================================
+2026-05-22 16:09:15,087 - INFO - ==================================================
+2026-05-22 16:09:15,087 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 16:09:15,087 - INFO - ==================================================
+2026-05-22 16:09:19,491 - INFO - User query received: I like cricket
+2026-05-22 16:09:19,492 - INFO - Fetching recent chat history
+2026-05-22 16:09:19,492 - INFO - Recent history count: 0
+2026-05-22 16:09:19,493 - INFO - Building context for LLM
+2026-05-22 16:09:19,493 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:09:19,493 - INFO - Final prompt prepared for LLM
+2026-05-22 16:09:19,494 - INFO - Sending prompt to LLM
+2026-05-22 16:09:19,494 - INFO - ==================================================
+2026-05-22 16:09:19,494 - INFO - Agent received input: I like cricket
+2026-05-22 16:09:19,494 - INFO - Routing to Search Tool (default)
+2026-05-22 16:09:19,495 - INFO - ==================================================
+2026-05-22 16:09:19,495 - INFO - Search tool execution started
+2026-05-22 16:09:19,495 - INFO - Search tool called with query: i like cricket
+2026-05-22 16:09:19,496 - INFO - Search API URL created successfully
+2026-05-22 16:09:19,496 - INFO - Payload created: {'q': 'i like cricket'}
+2026-05-22 16:09:19,496 - INFO - Headers created successfully
+2026-05-22 16:09:21,792 - INFO - API Response Status Code: 200
+2026-05-22 16:09:21,792 - INFO - API response converted to JSON
+2026-05-22 16:09:21,793 - INFO - Top 3 search results extracted
+2026-05-22 16:09:21,793 - INFO - Search tool result: ["I Don't Like Cricket (I Love It) (Dreadlock Holiday) - YouTube", "I Don't Like Cricket, I Love It (Dreadlock Holiday) - Spotify", "I Don't Like Cricket,I Love It (Dreadlock Holiday) Lyrics - Genius"]
+2026-05-22 16:09:21,793 - INFO - Returning search results to user
+2026-05-22 16:09:21,793 - INFO - ==================================================
+2026-05-22 16:09:21,794 - INFO - AI Response generated: I Don't Like Cricket (I Love It) (Dreadlock Holiday) - YouTube
+I Don't Like Cricket, I Love It (Dreadlock Holiday) - Spotify
+I Don't Like Cricket,I Love It (Dreadlock Holiday) Lyrics - Genius
+2026-05-22 16:09:21,794 - INFO - Saving chat history into memory
+2026-05-22 16:09:21,795 - INFO - Updating user profile memory
+2026-05-22 16:09:21,795 - INFO - Saving memory to disk
+2026-05-22 16:09:21,795 - INFO - Memory saved successfully
+2026-05-22 16:09:21,795 - INFO - ==================================================
+2026-05-22 16:09:51,480 - INFO - User query received: show me latest news
+2026-05-22 16:09:51,481 - INFO - Fetching recent chat history
+2026-05-22 16:09:51,481 - INFO - Recent history count: 1
+2026-05-22 16:09:51,481 - INFO - Building context for LLM
+2026-05-22 16:09:51,481 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:09:51,481 - INFO - Final prompt prepared for LLM
+2026-05-22 16:09:51,481 - INFO - Sending prompt to LLM
+2026-05-22 16:09:51,481 - INFO - ==================================================
+2026-05-22 16:09:51,481 - INFO - Agent received input: show me latest news
+2026-05-22 16:09:51,481 - INFO - Routing to News Tool
+2026-05-22 16:09:51,481 - INFO - news tool called with topic: show me latest
+2026-05-22 16:09:52,000 - INFO - News API response status code: 200
+2026-05-22 16:09:52,002 - INFO - News tool result: ['Stephen Colbert Gets Why You’re Scared He’s Writing a ‘Lord of the Rings’ Movie', '‘Pluribus’ Creator Vince Gilligan Hopes You Feel Some Ambiguity About Its Post-Apocalypse', 'How to win — and lose — Decoder', 'The Final Season of ‘The Boys’ Felt Like Watching a Comedian Bomb Their Set', 'Yahya Abdul-Mateen II on Why He Wanted to Make ‘Wonder Man’ One of Marvel’s Best']
+2026-05-22 16:09:52,004 - INFO - AI Response generated: Stephen Colbert Gets Why You’re Scared He’s Writing a ‘Lord of the Rings’ Movie
+‘Pluribus’ Creator Vince Gilligan Hopes You Feel Some Ambiguity About Its Post-Apocalypse
+How to win — and lose — Decoder
+The Final Season of ‘The Boys’ Felt Like Watching a Comedian Bomb Their Set
+Yahya Abdul-Mateen II on Why He Wanted to Make ‘Wonder Man’ One of Marvel’s Best
+2026-05-22 16:09:52,005 - INFO - Saving chat history into memory
+2026-05-22 16:09:52,005 - INFO - Updating user profile memory
+2026-05-22 16:09:52,006 - INFO - Saving memory to disk
+2026-05-22 16:09:52,006 - INFO - Memory saved successfully
+2026-05-22 16:09:52,007 - INFO - ==================================================
+2026-05-22 16:10:07,187 - INFO - User query received: weather mumbai
+2026-05-22 16:10:07,187 - INFO - Fetching recent chat history
+2026-05-22 16:10:07,188 - INFO - Recent history count: 1
+2026-05-22 16:10:07,188 - INFO - Building context for LLM
+2026-05-22 16:10:07,188 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:10:07,188 - INFO - Final prompt prepared for LLM
+2026-05-22 16:10:07,188 - INFO - Sending prompt to LLM
+2026-05-22 16:10:07,189 - INFO - ==================================================
+2026-05-22 16:10:07,189 - INFO - Agent received input: weather mumbai
+2026-05-22 16:10:07,189 - INFO - Routing to Weather Tool
+2026-05-22 16:10:07,189 - INFO - ==================================================
+2026-05-22 16:10:07,190 - INFO - Weather tool execution started
+2026-05-22 16:10:07,190 - INFO - Weather tool called with city: mumbai
+2026-05-22 16:10:07,190 - INFO - Weather API URL created successfully
+2026-05-22 16:10:07,835 - INFO - API Response Status Code: 200
+2026-05-22 16:10:07,835 - INFO - API response converted to JSON
+2026-05-22 16:10:07,835 - INFO - Extracted temperature for mumbai: 34.1°C
+2026-05-22 16:10:07,835 - INFO - Weather information for mumbai generated successfully.
+2026-05-22 16:10:07,836 - INFO - Returning weather result to user
+2026-05-22 16:10:07,836 - INFO - ==================================================
+2026-05-22 16:10:07,836 - INFO - AI Response generated: mumbai temperature is 34.1°C
+2026-05-22 16:10:07,837 - INFO - Saving chat history into memory
+2026-05-22 16:10:07,837 - INFO - Updating user profile memory
+2026-05-22 16:10:07,837 - INFO - Saving memory to disk
+2026-05-22 16:10:07,838 - INFO - Memory saved successfully
+2026-05-22 16:10:07,838 - INFO - ==================================================
+2026-05-22 16:10:16,043 - INFO - User query received: what about tomorrow?
+2026-05-22 16:10:16,043 - INFO - Fetching recent chat history
+2026-05-22 16:10:16,044 - INFO - Recent history count: 1
+2026-05-22 16:10:16,044 - INFO - Building context for LLM
+2026-05-22 16:10:16,044 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:10:16,044 - INFO - Final prompt prepared for LLM
+2026-05-22 16:10:16,044 - INFO - Sending prompt to LLM
+2026-05-22 16:10:16,044 - INFO - ==================================================
+2026-05-22 16:10:16,045 - INFO - Agent received input: what about tomorrow?
+2026-05-22 16:10:16,045 - INFO - Routing to Search Tool (default)
+2026-05-22 16:10:16,045 - INFO - ==================================================
+2026-05-22 16:10:16,045 - INFO - Search tool execution started
+2026-05-22 16:10:16,045 - INFO - Search tool called with query: what about tomorrow?
+2026-05-22 16:10:16,045 - INFO - Search API URL created successfully
+2026-05-22 16:10:16,046 - INFO - Payload created: {'q': 'what about tomorrow?'}
+2026-05-22 16:10:16,046 - INFO - Headers created successfully
+2026-05-22 16:10:18,121 - INFO - API Response Status Code: 200
+2026-05-22 16:10:18,122 - INFO - API response converted to JSON
+2026-05-22 16:10:18,122 - INFO - Top 3 search results extracted
+2026-05-22 16:10:18,122 - INFO - Search tool result: ['What About Tomorrow (feat. Arly Larivière) - YouTube', 'What About Tomorrow - song and lyrics by Nu-Look | Spotify', 'What About Tomorrow - YouTube']
+2026-05-22 16:10:18,122 - INFO - Returning search results to user
+2026-05-22 16:10:18,123 - INFO - ==================================================
+2026-05-22 16:10:18,124 - INFO - AI Response generated: What About Tomorrow (feat. Arly Larivière) - YouTube
+What About Tomorrow - song and lyrics by Nu-Look | Spotify
+What About Tomorrow - YouTube
+2026-05-22 16:10:18,125 - INFO - Saving chat history into memory
+2026-05-22 16:10:18,126 - INFO - Updating user profile memory
+2026-05-22 16:10:18,126 - INFO - Saving memory to disk
+2026-05-22 16:10:18,127 - INFO - Memory saved successfully
+2026-05-22 16:10:18,127 - INFO - ==================================================
+2026-05-22 16:11:17,059 - INFO - User query received: What is my name?
+2026-05-22 16:11:17,059 - INFO - Fetching recent chat history
+2026-05-22 16:11:17,059 - INFO - Recent history count: 1
+2026-05-22 16:11:17,060 - INFO - Building context for LLM
+2026-05-22 16:11:17,060 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:11:17,060 - INFO - Final prompt prepared for LLM
+2026-05-22 16:11:17,060 - INFO - Sending prompt to LLM
+2026-05-22 16:11:17,060 - INFO - ==================================================
+2026-05-22 16:11:17,060 - INFO - Agent received input: What is my name?
+2026-05-22 16:11:17,061 - INFO - Routing to Search Tool (default)
+2026-05-22 16:11:17,061 - INFO - ==================================================
+2026-05-22 16:11:17,061 - INFO - Search tool execution started
+2026-05-22 16:11:17,061 - INFO - Search tool called with query: what is my name?
+2026-05-22 16:11:17,061 - INFO - Search API URL created successfully
+2026-05-22 16:11:17,062 - INFO - Payload created: {'q': 'what is my name?'}
+2026-05-22 16:11:17,062 - INFO - Headers created successfully
+2026-05-22 16:11:18,289 - INFO - API Response Status Code: 200
+2026-05-22 16:11:18,289 - INFO - API response converted to JSON
+2026-05-22 16:11:18,290 - INFO - Top 3 search results extracted
+2026-05-22 16:11:18,290 - INFO - Search tool result: ['KindlyNxsh - WHAT IS MY NAME? (Official Music Video) - YouTube', 'What Is My Name - wikiHow', 'WHAT IS MY NAME? - song and lyrics by KindlyNxsh - Spotify']
+2026-05-22 16:11:18,290 - INFO - Returning search results to user
+2026-05-22 16:11:18,290 - INFO - ==================================================
+2026-05-22 16:11:18,292 - INFO - AI Response generated: KindlyNxsh - WHAT IS MY NAME? (Official Music Video) - YouTube
+What Is My Name - wikiHow
+WHAT IS MY NAME? - song and lyrics by KindlyNxsh - Spotify
+2026-05-22 16:11:18,292 - INFO - Saving chat history into memory
+2026-05-22 16:11:18,292 - INFO - Updating user profile memory
+2026-05-22 16:11:18,292 - INFO - Saving memory to disk
+2026-05-22 16:11:18,292 - INFO - Memory saved successfully
+2026-05-22 16:11:18,292 - INFO - ==================================================
+2026-05-22 16:21:40,647 - INFO - ==================================================
+2026-05-22 16:21:40,647 - INFO - AI Agent started. Type 'exit' to quit.
+2026-05-22 16:21:40,647 - INFO - ==================================================
+2026-05-22 16:22:10,080 - INFO - User query received: I am Gaurav
+2026-05-22 16:22:10,081 - INFO - Fetching recent chat history
+2026-05-22 16:22:10,081 - INFO - Recent history count: 2
+2026-05-22 16:22:10,081 - INFO - Building context for LLM
+2026-05-22 16:22:10,081 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:22:10,081 - INFO - Final prompt prepared for LLM
+2026-05-22 16:22:10,082 - INFO - Sending prompt to LLM
+2026-05-22 16:32:10,444 - INFO - Retrying request to /chat/completions in 0.468654 seconds
+2026-05-22 16:42:11,016 - INFO - Retrying request to /chat/completions in 0.758083 seconds
+2026-05-22 16:52:11,804 - ERROR - Error occurred in agent loop: Request timed out.
+2026-05-22 16:52:11,805 - INFO - User query received: 
+2026-05-22 16:52:11,805 - INFO - Fetching recent chat history
+2026-05-22 16:52:11,805 - INFO - Recent history count: 2
+2026-05-22 16:52:11,806 - INFO - Building context for LLM
+2026-05-22 16:52:11,806 - INFO - Context built successfully, sending to LLM
+2026-05-22 16:52:11,806 - INFO - Final prompt prepared for LLM
+2026-05-22 16:52:11,806 - INFO - Sending prompt to LLM

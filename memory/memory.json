@@ -1,0 +1,17 @@
+{
+  "user_profile": {
+    "name": "Gaurav",
+    "interest": "cricket",
+    "last_city": "mumbai"
+  },
+  "chat_history": [
+    {
+      "query": "weather mumbai",
+      "response": "mumbai temperature is 34°C"
+    },
+    {
+      "query": "what about tomorrow?",
+      "response": "..."
+    }
+  ]
+}
