@@ -9,7 +9,7 @@ client = OpenAI(
 def ask_qwen(prompt):
 
     response = client.chat.completions.create(
-        model="qwen2.5-coder-1.5b-instruct",
+        model="qwen2.5-1.5b-instruct",
         messages=[
             {"role": "user", "content": prompt}
         ]
@@ -18,6 +18,5 @@ def ask_qwen(prompt):
     return response.choices[0].message.content
 
 
-# Test
-# answer = ask_qwen("Who is Dhoni?")
+# answer = ask_qwen("What is AI?")
 # print(answer)

@@ -55,7 +55,7 @@ def run_agent(user_input):
     lower_input = user_input.lower() 
 
     if "weather" in lower_input:
-        city = lower_input.replace("weather in", "").strip()
+        city = lower_input.replace("weather", "").strip()
         return get_weather(city)
 
     elif "news" in lower_input:
@@ -162,50 +162,50 @@ def chat_endpoint(data: ChatRequest):
                 f"Updated last city memory: {city}"
             )
 
-        # # =========================
-        # # MEMORY QUESTIONS
-        # # =========================
+        # =========================
+        # MEMORY QUESTIONS
+        # =========================
 
-        # logger.info("Checking memory questions")
+        logger.info("Checking memory questions")
 
-        # if "what is my name" in lower_input:
+        if "what is my name" in lower_input:
 
-        #     response = (
-        #         f"Your name is "
-        #         f"{memory['user_profile']['name']}"
-        #     )
+            response = (
+                f"Your name is "
+                f"{memory['user_profile']['name']}"
+            )
 
-        #     logger.info(
-        #         "Answered from memory: name"
-        #     )
+            logger.info(
+                "Answered from memory: name"
+            )
 
-        # elif "what do i like" in lower_input:
+        elif "what do i like" in lower_input:
 
-        #     response = (
-        #         f"You like "
-        #         f"{memory['user_profile']['interest']}"
-        #     )
+            response = (
+                f"You like "
+                f"{memory['user_profile']['interest']}"
+            )
 
-        #     logger.info(
-        #         "Answered from memory: interest"
-        #     )
-        
-        tool_result = run_agent(user_input)
+            logger.info(
+                "Answered from memory: interest"
+            )
 
-        logger.info( f"Tool result: {tool_result}")
-
-        if tool_result != "No tool needed.":
-
-            logger.info( "Tool response found. Returning tool result." )
-
-            response = tool_result
-            
-       
         else:
 
             # =========================
             # TOOL CALLING
-        
+            # =========================
+
+            logger.info(
+                "Processing request through agent"
+            )
+
+            tool_result = run_agent(user_input)
+
+            logger.info(
+                f"Tool result: {tool_result}"
+            )
+            
             
             logger.info("=" * 50)
             logger.info("RAG RETRIEVAL STARTED")

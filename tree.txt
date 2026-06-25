@@ -13,3 +13,69 @@ weather pune
 
 
 Built a beginner-friendly AI Agent project using Python with modular architecture. Implemented multiple tools like Weather Tool, News Tool, Search Tool, Travel Tool, and Calculator Tool. Added structured logging system, persistent memory using JSON, chat history tracking, and context builder for conversation continuity. Learned concepts like memory layer, context engineering, intent **routing**, tool-based agents, LLM integration with LM Studio (Qwen), and basic AI agent architecture design. Also implemented GitHub project structure, clean folder organization, and debugging workflow for real-world AI agent development.
+ {
+            "query": "i am gaurav",
+            "response": "Hello Gaurav! How can I assist you today?"
+        },
+        {
+            "query": "What is my name?",
+            "response": "Your name is Gaurav."
+        },
+        {
+            "query": "I like cricket",
+            "response": "Great choice! Cricket is a popular sport around the world. Do you have any specific questions or topics related to cricket that you'd like to discuss?"
+        },
+        {
+            "query": "What do I like?",
+            "response": "You enjoy playing cricket, which is a popular sport worldwide."
+        },
+        {
+            "query": "Weather in Mumbai",
+            "response": "The weather in Mumbai is typically hot and humid during the summer months. It's recommended to carry an umbrella or raincoat for unexpected showers."
+        },
+        {
+            "query": "What about tomorrow?",
+            "response": "Tomorrow in Mumbai, you can expect warm and humid conditions. Carry an umbrella or raincoat just in case of unexpected showers. Enjoy your day!"
+        },
+        {
+            "query": "2*2",
+            "response": "The answer to \"2 * 2\" is 4."
+        },
+        {
+            "query": "latest ai news",
+            "response": "The current state of AI research includes advancements in natural language processing, machine learning algorithms, and deep learning models. There are ongoing efforts to improve the accuracy of predictions, enhance user interfaces, and develop more efficient systems for data analysis. Additionally, there is a focus on ethical considerations and privacy concerns as AI technology continues to evolve rapidly."
+        },
+        {
+            "query": "who is pm of india",
+            "response": "The Prime Minister of India is Narendra Modi."
+        },
+        {
+            "query": "what i asked in my previous chat",
+            "response": "User asked, \"What is the current PM of India?\""
+        },
+        {
+            "user_input": "latest ai  news ",
+            "response": "AI radio hosts demonstrate why AI can\u2019t be trusted alone\nGreg Brockman Officially Takes Control of OpenAI\u2019s Products in Latest Shakeup\nMicrosoft\u2019s Office and LinkedIn chief now runs Teams in latest reshuffle\n\u2018Solve all diseases,\u2019 you say?\nEcovacs Deebot X12 OmniCyclone Review: AI Can\u2019t Save This Robot Vacuum"
+        },
+        {
+            "user_input": "my name is patu ",
+            "response": "TENOR: My Name is Pati - New Zealand Film Commission\nTenor: My name is Pati | Official Trailer | NZ Film - YouTube\nTenor: My Name is Pati | NZ On Screen"
+        },
+        {
+            "user_input": "what is my name ",
+            "response": "what is my name - Google Assistant Community\nKindlyNxsh - WHAT IS MY NAME? (Official Music Video) - YouTube\nWhat Is My Name - wikiHow"
+        },
+        {
+            "user_input": "I like football ",
+            "response": "Why do people like football so much? : r/RandomThoughts - Reddit\n\"i like football\" #shorts - YouTube\nWhy I Love Football - Steemit"
+        },
+        {
+            "user_input": "What do I like? ",
+            "response": "What Do I Like? - Quiz - Quizony.com\nWhat do you say when someone asks \u201cwhat do you like to do for fun ...\nWhat Do You Like To Do? | Kids Songs | Super Simple Songs"
+        }
+
+
+
+
+
+      
