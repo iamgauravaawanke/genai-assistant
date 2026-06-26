@@ -1,68 +1,72 @@
 # 🤖 Smart AI Assistant
 
-A Full-Stack AI Assistant built with **React.js**, **FastAPI**, **PostgreSQL**, **ChromaDB**, and **Qwen LLM**.
-
-The assistant supports multi-session conversations, memory management, AI tools, and Retrieval-Augmented Generation (RAG) using uploaded PDF documents.
+A Full-Stack AI Assistant built using **React.js**, **FastAPI**, **PostgreSQL**, **ChromaDB**, and **Qwen LLM**. The application supports intelligent conversations, memory-based interactions, AI tools, chat history, and PDF-based Retrieval-Augmented Generation (RAG).
 
 ---
 
 ## 🚀 Features
 
-* 💬 AI Chat Assistant
-* 📝 Multi-Session Chat History
-* 🧠 Memory-Based Conversations
-* 📄 PDF Upload
-* 🔍 Retrieval-Augmented Generation (RAG)
-* 📚 ChromaDB Vector Database
-* 🌦️ Weather Tool
-* 🔎 Search Tool
-* 🧮 Calculator Tool
-* ✈️ Travel Tool
-* 💾 PostgreSQL Database
-* ⚡ FastAPI Backend
-* 🎨 React Frontend
+* AI Chat Assistant
+* Multi-Session Chat History
+* Memory-Based Conversations
+* PDF Upload
+* Retrieval-Augmented Generation (RAG)
+* ChromaDB Vector Database
+* Weather Tool
+* Search Tool
+* Calculator Tool
+* Travel Tool
+* PostgreSQL Database
+* FastAPI Backend
+* React Frontend
 
 ---
 
-## 🏗️ Project Architecture
+## 🏗️ Architecture
 
+```text
 User
-↓
+   ↓
 React Frontend
-↓
+   ↓
 FastAPI Backend
-↓
+   ↓
 Memory & Tool Routing
-↓
+   ↓
 RAG Retrieval (ChromaDB)
-↓
+   ↓
 Qwen LLM
-↓
+   ↓
 AI Response
+```
 
 ---
 
 ## 🧠 RAG Workflow
 
+```text
 PDF Upload
-↓
+      ↓
 Extract Text
-↓
+      ↓
 Chunking
-↓
+      ↓
 Generate Embeddings
-↓
+      ↓
 Store in ChromaDB
-↓
+      ↓
 User Question
-↓
+      ↓
+Question Embedding
+      ↓
 Similarity Search
-↓
+      ↓
 Retrieve Relevant Chunks
-↓
+      ↓
 Context + Qwen
-↓
+      ↓
 Generate Answer
+```
 
 ---
 
@@ -72,6 +76,7 @@ Generate Answer
 
 * React.js
 * Tailwind CSS
+* Vite
 
 ### Backend
 
@@ -83,7 +88,7 @@ Generate Answer
 * PostgreSQL
 * ChromaDB
 
-### AI & ML
+### AI
 
 * Qwen LLM
 * LangChain
@@ -91,34 +96,29 @@ Generate Answer
 
 ---
 
-## 📂 Key Features
+## ⚙️ Installation & Setup
 
-### Chat System
+### Clone Repository
 
-* Multi-session conversations
-* Chat history
-* Conversation persistence
+```bash
+git clone https://github.com/YOUR_USERNAME/smart-ai-assistant.git
+cd smart-ai-assistant
+```
 
-### Memory System
+### Backend
 
-* Stores user information
-* Retrieves previous context
-* Personalized conversations
+```bash
+pip install -r requirements.txt
+python main.py
+```
 
-### AI Tools
+### Frontend
 
-* Weather
-* Search
-* Calculator
-* Travel
-
-### RAG
-
-* PDF Upload
-* Embedding Generation
-* Vector Search
-* Context Retrieval
-* AI-powered Answers
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
 ---
 
@@ -126,9 +126,9 @@ Generate Answer
 
 * Docker Support
 * Project Deployment
-* Authentication
-* Streaming Responses
-* Multiple Document Collections
+* User Authentication
+* Streaming AI Responses
+* Multi-PDF Knowledge Base
 * Conversation Export
 
 ---
@@ -139,6 +139,4 @@ Generate Answer
 
 Python Developer | AI Engineer | FastAPI | React | Generative AI | RAG
 
----
-
-⭐ If you found this project useful, consider giving it a star.
+If you like this project, consider giving it a ⭐ on GitHub.
